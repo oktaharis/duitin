@@ -4,7 +4,7 @@ import { Sidebar } from "./Sidebar";
 import { Header } from "./Header";
 import { BottomNavigation } from "./BottomNavigation";
 import { SidebarProvider } from "@/components/ui/sidebar";
-import { OnboardingGate } from "@/components/auth/OnboardingGate";
+import { OnboardingGate } from "@/components/Auth/OnboardingGate";
 
 export const MainLayout = () => {
   return (
